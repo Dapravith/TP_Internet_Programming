@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 700px;
+    height: 110px;
+}
+
+.header {
+    background-color: lightgray;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+    width: 680px;
+    text-align: center;
+    display: inline-block;
+}
+
+.content {
+    overflow: scroll;
+    width: 700px;
+    height: 500px;
+}

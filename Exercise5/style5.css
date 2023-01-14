@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: rgba(164, 165, 167, 0.7);
+    padding: 1px;
+}
+.box {
+    font-size: 30px;
+    padding: 10px;
+    margin: 4px;
+    background-color: rgb(23, 163, 156);
+    border: 5px;
+    text-align: center;
+}
