@@ -36,7 +36,7 @@ function renderList () {
 }
 
 function add (idValue, titleValue, assigneeValue, deadlineValue) {
-    var todo = {id:idVaue, title:titleValue, assignee:assigneeValue, deadline:deadlineValue}
+    var todo = {id:idValue, title:titleValue, assignee:assigneeValue, deadline:deadlineValue}
     todoList.push(todo)
     localStorage.setItem(idValue+"", JSON.stringify(todo))
     title.value = "";
