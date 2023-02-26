@@ -1,0 +1,201 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #aaa;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.add {
+    height: 93vh;
+    width: 300px;
+    background-color: antiquewhite;
+    position: fixed;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.add>div {
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(147, 212, 116);
+    margin-bottom: 20px;
+    font-size: large;
+    padding-top: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.add input[type=text] {
+    width: 100%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+.add input[type=text]:focus {
+    border-color: dodgerBlue;
+    box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+.add .edit_book {
+    visibility: hidden;
+}
+
+.add_book,
+.edit_book {
+    background-color: rgba(147, 196, 125, 1);
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 25px;
+    width: 50px;
+    font: bold15px arial, sans-serif;
+    text-shadow: none;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.edit_book {
+    background-color: rgb(61, 133, 198);
+}
+
+.home {
+    height: auto;
+    width: 800px;
+    top: 0px;
+    /* background-color: #fafafa; */
+    /* rgba(97, 105, 122, 0.5) */
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 350px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.home .book-info {
+    background-color: rgba(147, 196, 125, 1);
+    text-align: center;
+    height: 35px;
+    font-size: large;
+    color: #ffffff;
+    position: sticky;
+    width: 780px;
+    margin: 10px 0 10px 10px;
+    border-radius: 5px;
+}
+
+.home .items {
+    text-align: center;
+    width: 23%;
+    margin: 1%;
+    margin-left: 1%;
+    box-shadow: rgba(15, 15, 15, 0.3) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.items>img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.items .name,
+.price,
+.category {
+    text-align: start;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.items>button {
+    text-align: start;
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.button .editBtn,
+.deleteBtn {
+    border-radius: 5px;
+    background-color: rgb(61, 133, 198);
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    text-shadow: none;
+    height: 30px;
+}
+
+.deleteBtn {
+    margin-left: 4px;
+    background-color: rgba(239, 54, 54);
+}
+
+.edit_book {
+    margin-left: -55px;
+    text-align: center;
+    width: 60px;
+}
+
+.items>img {
+    height: 90px;
+}
+
+.loading {
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin: 5px 0 15px 0;
+    background-color: rgba(244, 67, 54, .9);
+}
+
+.btn>a {
+    color: white;
+    text-decoration: none;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+h1 {
+    font: 2em 'Roboto', sans-serif;
+    margin-bottom: 40px;
+}
+
+.loader {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 50px;
+    padding: 50px;
+    border: 3px solid rgba(51, 221, 13, 0.804);
+    border-radius: 50%;
+    border-top-color: #ca1010;
+    -webkit-animation: spin 1s ease-in-out infinite;
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}

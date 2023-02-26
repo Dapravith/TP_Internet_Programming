@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex2 Gender Guessing</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="box">
+        <img src="./img/thinking-emoji.gif" alt="">
+        <h3>I Know you <span>Gender</span></h3>
+        <div class="inputForm">
+            <input id="name" type="text" placeholder="Tell me your name">
+            <button onclick="GenderGuessing()" >Guess</button>
+        </div>
+        <div id="display">
+            <div id="loading">Loading...</div>
+            <div id="show">
+            </div>
+        </div>
+    </div>
+
+    <script src="./guess.js"></script>
+</body>
+</html>
