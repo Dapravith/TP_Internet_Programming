@@ -3,10 +3,10 @@
     "development"
   ],
   "hints": {
-    "axe/text-alternatives": [
+    "axe/forms": [
       "default",
       {
-        "document-title": "off"
+        "label": "off"
       }
     ]
   }

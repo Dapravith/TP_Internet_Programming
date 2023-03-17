@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ex01 Activity Suggestion</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container-box">
+        <img src="./img/bored.gif" alt="bored"><br>
+        <h3>Are you boring?</h3>
+        <button id="button" onclick="loadActivity()">Tell me what to do?</button>
+        <div id="loading" class="activity">
+            <div id="toLoad" class="loading">loading ....</div>
+            <div id="load" class="load">
+                <h5 id="act" ></h5>
+                <div class="title">
+                    <p id="type" >Type: </p>
+                    <p id="participant" >Participants: </p>
+                    <p id="price" >Price: $</p>
+                    <p id="link" >Link: https://www.pagat.com</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./app.js"></script>
+</body>
+</html>
