@@ -16,5 +16,5 @@ npm install express
 # start running 
 nodemon npm run start -> open localhost:3000
 
-#install typescript
+# install typescript
 npm install -g typescript
