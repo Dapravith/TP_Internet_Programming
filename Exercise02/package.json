@@ -10,7 +10,7 @@
     "devDependencies": {
         "@types/node": "^17.0.21"
     },
-    "name": "yann_sovanvichea_ex02",
+    "name": "Exercise02",
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
