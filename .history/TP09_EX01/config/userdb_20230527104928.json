@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "64706d8b9cca8f5ebd2906db"
+    },
+    "username": "Dapravith999",
+    "firstname": "Dapravith",
+    "lastname": "Rotha",
+    "email": "dapravithrotha@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "647074231d9c44120429dcfa"
+    },
+    "username": "Channara5778",
+    "firstname": "Channara",
+    "lastname": "Roth",
+    "email": "channararoth@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "647074351d9c44120429dcfb"
+    },
+    "username": "Guest",
+    "firstname": "Guest1",
+    "lastname": "Guest1",
+    "email": "Guest1@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "647074781d9c44120429dcfc"
+    },
+    "username": "Admin",
+    "firstname": "Admin",
+    "lastname": "Admin",
+    "email": "Admin@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64717ae9a2f5804dba3ac15e"
+    },
+    "username": "Dapravith",
+    "firstname": "Dapravith",
+    "lastname": "Rotha",
+    "email": "rothadapravith989@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-27T10:17:55.942Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-27T10:17:55.942Z"
+    },
+    "__v": 0
+  }
+]

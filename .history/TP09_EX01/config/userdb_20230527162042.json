@@ -1,0 +1,84 @@
+[
+  {
+    "_id": {
+      "$oid": "6471926a5819ba802ce92d8d"
+    },
+    "username": "Channararoth",
+    "firstname": "Channararoth",
+    "lastname": "Channararoth",
+    "email": "channararoth@gmail.com",
+    "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
+    "createdAt": {
+      "$date": "2023-05-27T05:17:30.710Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-27T05:17:30.710Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64718dcf5819ba802ce92d58"
+    },
+    "username": "Guest",
+    "firstname": "Guest",
+    "lastname": "Guest",
+    "email": "Guest@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-27T04:57:51.214Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-27T04:57:51.214Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64718aa25819ba802ce92d3b"
+    },
+    "username": "Admin",
+    "firstname": "Admin",
+    "lastname": "Admin",
+    "email": "admin@gmail.com",
+    "createdAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "updatedAt": {
+      "$date": "2023-05-26T08:27:55.942Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64717f1a5819ba802ce92cf9"
+    },
+        "username": "Dapravith12345",
+        "firstname": "Dapravith",
+        "lastname": "Dapravith",
+        "email": "dapravithrotha@gmail.com",
+        "createdAt": {
+         "$date": "2023-05-27T03:55:06.198Z"
+        },
+        "updatedAt": {
+        "$date" : "2023-05-27T03:55:06.198Z"
+        },
+        "__v": 0
+  },
+  {
+    "_id": {
+    "$oid":"6471c90e1ace404c0a8b7ce6"
+    },
+    "username": "SokVatey3899",
+    "firstname": "SokVatey",
+    "lastname": "SokVatey",
+    "email": "SokVatey@gmail.com",
+    "createdAt": {
+       "$date":"2023-05-27T09:10:38.310Z"
+    },
+    "updatedAt": {
+    "$date":"2023-05-27T09:10:38.310Z"
+    },
+    "__v": 0
+  }
+]
+

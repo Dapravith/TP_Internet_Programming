@@ -12,6 +12,7 @@
     "joi": "^17.6.0",
     "jsonwebtoken": "^8.5.1",
     "mdbootstrap": "^4.20.0",
+    "mongodb": "^5.5.0",
     "mongoose": "^6.2.7"
   },
   "devDependencies": {

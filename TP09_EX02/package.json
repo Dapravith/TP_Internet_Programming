@@ -9,7 +9,7 @@
     "express": "^4.17.3",
     "express-session": "^1.17.2",
     "http-server": "^14.1.0",
-    "joi": "^17.6.0",
+    "joi": "^17.9.2",
     "jsonwebtoken": "^8.5.1",
     "mdbootstrap": "^4.20.0",
     "mongoose": "^6.10.5"
