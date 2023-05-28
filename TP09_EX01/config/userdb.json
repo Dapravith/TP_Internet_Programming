@@ -24,6 +24,7 @@
     "firstname": "Guest",
     "lastname": "Guest",
     "email": "Guest@gmail.com",
+    "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
     "createdAt": {
       "$date": "2023-05-27T04:57:51.214Z"
     },
@@ -40,6 +41,7 @@
     "firstname": "Admin",
     "lastname": "Admin",
     "email": "admin@gmail.com",
+    "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
     "createdAt": {
       "$date": "2023-05-26T08:27:55.942Z"
     },
@@ -56,6 +58,7 @@
         "firstname": "Dapravith",
         "lastname": "Dapravith",
         "email": "dapravithrotha@gmail.com",
+        "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
         "createdAt": {
          "$date": "2023-05-27T03:55:06.198Z"
         },
@@ -72,11 +75,46 @@
     "firstname": "SokVatey",
     "lastname": "SokVatey",
     "email": "SokVatey@gmail.com",
+    "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
     "createdAt": {
        "$date":"2023-05-27T09:10:38.310Z"
     },
     "updatedAt": {
     "$date":"2023-05-27T09:10:38.310Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+    "$oid":"6472a017aabba63e02e1a7cb"
+    },
+    "username": "Votey",
+    "firstname": "Votey",
+    "lastname": "Chan",
+    "email": "chanvotey@gmail.com",
+    "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
+    "createdAt": {
+       "$date":"2023-05-28T00:28:07.977Z"
+    },
+    "updatedAt": {
+    "$date":"2023-05-28T00:28:07.977Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+    "$oid":"6472a2836c943499b4b542a8"
+    },
+    "username": "SokDara",
+    "firstname": "Dara",
+    "lastname": "Sok",
+    "email": "sokdara1234@gmail.com",
+    "password": "$2a$10$jtMw/ktZf2qyCAtwmU2VGu93c1Dvb/BuWiqvYybc0LxPjU2Coy.Fy",
+    "createdAt": {
+       "$date":"2023-05-28T00:38:27.438Z"
+    },
+    "updatedAt": {
+    "$date":"2023-05-28T00:38:27.438Z"
     },
     "__v": 0
   }
