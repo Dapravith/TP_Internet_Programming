@@ -1,0 +1,187 @@
+[{
+  
+  "name": "Asus Rog Sheath",
+  "user": "6486c28a55adb2d201b54346",
+  "category": "6488309d02e185e283dec752",
+  "subcategory": "64899d65912038fcc1091d02",
+  "image": "static/product/1686746241663.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 15
+
+    },
+    {
+      "name": "Shop 2",
+      "price": 20
+    },
+    {
+      "name": "Shop 3",
+      "price": 19
+    }
+  ],
+
+  "__v": 0
+},
+{
+  
+  "name": "Asus Rog Strix Edge",
+  "user": "6486c28a55adb2d201b54346",
+  "category": "6488309d02e185e283dec752",
+  "subcategory": "64899d65912038fcc1091d02",
+  "image": "static/product/1686746311692.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 7
+      
+    },
+    {
+      "name": "Shop 2",
+      "price": 7
+    },
+    {
+      "name": "Shop 3",
+      "price": 7.5
+    }
+  ],
+  "__v": 0
+},
+{
+
+  "name": "CORSAIR MM100",
+  "user":  "6486c28a55adb2d201b54346",
+  "category":  "6488309d02e185e283dec752",
+  "subcategory":  "64899d65912038fcc1091d02",
+  "image": "static/product/1686746458818.webp",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 4
+    },
+    {
+      "name": "Shop 2",
+      "price": 3.9
+    },
+    {
+      "name": "Shop 3",
+      "price": 4.9
+    }
+  ],
+  "__v": 0
+},
+{
+
+  "name": "Razer Firefly V2",
+  "user": "6486c28a55adb2d201b54346",
+  "category": "6488309d02e185e283dec752",
+  "subcategory": "64899d65912038fcc1091d02",
+  "image": "static/product/1686746571358.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 60
+    },
+    {
+      "name": "Shop 2",
+      "price": 59
+    },
+    {
+      "name": "Shop 3",
+      "price": 66
+    }
+  ],
+  "__v": 0
+},
+{
+
+  "name": "Razer Sphex V2",
+  "user":"6486c28a55adb2d201b54346",
+  "category":"6488309d02e185e283dec752",
+  "subcategory":"64899d65912038fcc1091d02",
+  "image": "static/product/1686746693374.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 49
+    },
+    {
+      "name": "Shop 2",
+      "price": 44
+    },
+    {
+      "name": "Shop 3",
+      "price": 49
+    }
+  ],
+  "__v": 0
+},
+{
+
+  "name": "JOKO PowerBank A24L 50000mAh",
+  "user": "6486c28a55adb2d201b54346",
+  "category": "6488309d02e185e283dec752",
+  "subcategory": "6489aea6efdfa0a890e4a7a6",
+  "image": "static/product/1686746942696.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 28
+    },
+    {
+      "name": "Shop 2",
+      "price": 29
+    },
+    {
+      "name": "Shop 3",
+      "price": 30
+    }
+  ],
+  "__v": 0
+},
+{
+
+  "name": "Power bank BJ22A ",
+  "user": "6486c28a55adb2d201b54346",
+  "category": "6488309d02e185e283dec752",
+  "subcategory": "6489aea6efdfa0a890e4a7a6",
+  "image": "static/product/1686747066260.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 18 
+    },
+    {
+      "name": "Shop 2",
+      "price": 17 
+    },
+    {
+      "name": "Shop 3",
+      "price": 19 
+    }
+  ],
+  "__v": 0
+},
+{
+
+  "name": "Phone Case LIXUEYING Retro Mini TV",
+  "user":  "6486c28a55adb2d201b54346",
+  "category":  "6488309d02e185e283dec752",
+  "subcategory":  "6489aeb2efdfa0a890e4a7ac",
+  "image": "static/product/1686747296574.jpg",
+  "prices": [
+    {
+      "name": "Shop 1",
+      "price": 18     
+    },
+    {
+      "name": "Shop 2",
+      "price": 17     
+    },
+    {
+      "name": "Shop 3",
+      "price": 19     
+    }
+  ],
+  "__v": 0
+}]

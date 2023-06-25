@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Siemreap&display=swap');
+*,*::before,*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Siemreap',cursive; 
+}
+
+.underLine_hover{
+  transition: 300ms;
+}
+.underLine_hover::after{
+  transition: 300ms;
+    content: "";
+    width: 0;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.underLine_hover:hover::after{
+  width: 100%;
+}
+.table_popup{
+  width: 100%;
+}
+.table_popup td{
+  border: 2px solid black;
+  padding: .2rem 1rem;
+  color: red;
+
+  
+}
+.table_popup td:last-child{
+  text-align: right;
+}
+#app{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  
+}
+
+.linkToDashboard{
+  width: fit-content;
+  padding: .4rem 1rem;
+  border-radius: .2rem;
+  background-color: aqua;
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  z-index: 9999;
+  color: black;
+  border: 2px solid black;
+  transform: translateY(-200%);
+  transition: 300ms;
+  
+}
+.linkToDashboard:focus{
+  transform: translateY(0);
+}
+
+@media print {
+  #app::-webkit-scrollbar{
+    display: none;
+  }
+}

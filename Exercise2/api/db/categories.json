@@ -1,0 +1,35 @@
+[{
+  "_id":"6488309d02e185e283dec752",
+  "name": "Accessories",
+  "user":"6486c28a55adb2d201b54346",
+  
+  "__v": 0
+},
+{
+  "_id":"648830a102e185e283dec755",
+  "name": "Laptops",
+  "user":"6486c28a55adb2d201b54346",
+  
+  "__v": 0
+},
+{
+  "_id":"648830a602e185e283dec758",
+  "name": "PC COMPONENT",
+  "user":"6486c28a55adb2d201b54346",
+  
+  "__v": 0
+},
+{
+  "_id":"6488a4425600fe972988dc1c",
+  "name": "Phone",
+  "user":"6486c28a55adb2d201b54346",
+  
+  "__v": 0
+},
+{
+
+  "name": "Tablet",
+  "user":"6486c28a55adb2d201b54346",
+  
+  "__v": 0
+}]
