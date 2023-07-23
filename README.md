@@ -1,6 +1,11 @@
 # Demo-Result
 <img width="1511" alt="image" src="https://github.com/Dapravith/TP_Internet_Programming/assets/90898700/38bcc863-8c8e-42af-8513-70d387e1a477">
 
+# TP15_Laravel
+[TP15 (1).pdf](https://github.com/Dapravith/TP_Internet_Programming/files/12138886/TP15.1.pdf)
+
+# Report of Assignment TP15
+[Rotha_Dapravith_e20190915_TP15_Laravel.pdf](https://github.com/Dapravith/TP_Internet_Programming/files/12138887/Rotha_Dapravith_e20190915_TP15_Laravel.pdf)
 
 
 
