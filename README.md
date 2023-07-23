@@ -1,5 +1,6 @@
 # Demo-Result
-<img width="1512" alt="image" src="https://github.com/Dapravith/TP_Internet_Programming/assets/90898700/39f0c830-531f-49af-b4df-52b2a7baf450">
+<img width="497" alt="image" src="https://github.com/Dapravith/TP_Internet_Programming/assets/90898700/886ab1ac-ccf3-482f-ae9d-63f745b10f25">
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
